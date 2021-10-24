@@ -1,0 +1,46 @@
+RoadMap
+
+Structure:
+ViewsApp(Output of DB by time)
+Scrapper
+
+1) Model:
+    1) Site:
+        a)site
+    
+    2)Agent:
+        a) name
+        b) num
+    3)Record
+        a)site (foreign key)
+        b)name
+        c)description
+        d)date
+        e)rooms
+        f)images
+        g)cost
+        h)owner
+        i) number
+        j) isAgent
+
+
+2)Scrapper
+
+3)Views:
+
+
+4) HTML stuff
+
+5) DRF
+
+6) Авторизация
+
+7)Maybe application
+
+6
+
+7
+
+8
+
+9
